@@ -1,5 +1,5 @@
-import sounddevice as sd
 import numpy as np
+import sounddevice as sd
 
 # 设置参数
 duration = 5  # seconds
